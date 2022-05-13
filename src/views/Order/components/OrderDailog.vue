@@ -24,7 +24,7 @@
         <el-input v-model="tableData.deliveryTime"></el-input>
       </el-form-item>
       <el-form-item label="备注">
-        <el-input v-model="tableData."></el-input>
+        <el-input v-model="tableData.remarks"></el-input>
       </el-form-item>
       <el-form-item label="订单金额">
         <el-input v-model="tableData.orderAmount"></el-input>
