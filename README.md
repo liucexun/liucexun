@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-# 这是我的第一个Git文件。
-
-。
+# 这是我的第一个Git
