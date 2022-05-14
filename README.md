@@ -1,4 +1,4 @@
-# 测试Git 文件小demo
+# 测试Git vue-manage
 
 - 克隆下来   git clone 'URL'
 - 打开cmd之后  cmd
